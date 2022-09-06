@@ -4,7 +4,7 @@
 <img width="146" alt="image" src="https://user-images.githubusercontent.com/112670969/188718518-65e2dec7-933a-448a-b9d9-fa0dbc2c1f57.png">
 
 ### [1. 모든 단어보기]
-![image](https://user-images.githubusercontent.com/112670969/188718255-f237c5a3-2d65-4e90-9844-65e9f718f459.png)
+<img width="168" alt="image" src="https://user-images.githubusercontent.com/112670969/188718647-2cc74d36-a2a0-41d5-9b97-79f2b47e9c7b.png">
 
 ### [0. 나가기]
-![image](https://user-images.githubusercontent.com/112670969/188718380-9f139517-2508-4853-9470-2f8163ad09b0.png)
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/112670969/188718683-1e122b34-1f97-42a9-9d7e-1e9e74f92d8d.png">
