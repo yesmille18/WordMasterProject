@@ -1,9 +1,6 @@
 # WordMasterProject
 
 ### [1. 모든 단어보기]
-<img width="168" alt="image" src="https://user-images.githubusercontent.com/112670969/188718647-2cc74d36-a2a0-41d5-9b97-79f2b47e9c7b.png">
-
-### [1. 모든 단어보기]
 
 ### [2. 수준별 단어보기]
 
